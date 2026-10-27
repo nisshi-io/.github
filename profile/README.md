@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.solace.com">
-    Solace
+    <img src="/assets/Solace_Logo_Green.png" alt="Solace logo - Real-Time Data for the Enterprise" />
   </a>
 </p>
 

@@ -18,4 +18,6 @@ Nisshi is a diskless streaming solution that is API compatible with Apache Kafka
  
 Development is led by a team at Solace and in the open under the Apache-2.0 license, with contributions welcome. 
 
+Learn more in the [Nisshi documentation](https://docs.nisshi.io/) and explore the latest news and insights on the [Nisshi blog](https://blog.nisshi.io/).
+
 🧙 If you have any questions, feel free to surf our [Solace Community Forum](https://solace.community/)
